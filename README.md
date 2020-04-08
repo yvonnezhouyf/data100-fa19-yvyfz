@@ -3,9 +3,7 @@ Repository for course project assignments of Data 100 (Fall 2019). All done in J
 
 - Course Website: http://www.ds100.org/fa19/
 - Instructor: Josh Hug(hug@cs.berkeley.edu), Deborah Nolan(deborah_nolan@berkeley.edu)
-
-
-- Name: Yvonne (Yuefan) Zhou
+- Student Name: Yvonne (Yuefan) Zhou
 - Email: yvonnezhouyf@berkeley.edu
 
 ## Projects:
