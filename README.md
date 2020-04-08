@@ -6,6 +6,8 @@ Repository for course project assignments of Data 100 (Fall 2019). All done in J
 - Student Name: Yvonne (Yuefan) Zhou
 - Email: yvonnezhouyf@berkeley.edu
 
+-----
+
 ## Projects:
 - [Project 1](proj/proj1): Food Safety (Cleaning and Exploring Data with Pandas)
 
